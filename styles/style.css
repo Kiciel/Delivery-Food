@@ -103,3 +103,16 @@ h1, h2, p, a input, div{
     line-height: 28px;
     color: #302C34;
 }
+
+.items_top,
+.items_buttom,
+.main-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; 
+}
+
+.main-top{
+    font-size: 36px;
+    w
+}
